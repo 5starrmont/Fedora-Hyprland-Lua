@@ -1,0 +1,3 @@
+-- User Window Rules
+-- Translated from UserConfigs/WindowRules.conf
+-- (Currently empty in legacy config)

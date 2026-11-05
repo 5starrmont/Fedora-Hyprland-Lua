@@ -1,0 +1,3 @@
+-- User Startup Applications
+-- Translated from UserConfigs/Startup_Apps.conf
+-- (Currently empty in legacy config)
